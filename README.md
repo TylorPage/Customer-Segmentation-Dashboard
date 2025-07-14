@@ -47,8 +47,8 @@ I cleaned the original dataset using Google Sheets with the following steps:
 
 ## Dashboard Preview
 
-[View the Interactive Tableau Dashboard](https://public.tableau.com/)  
-*Link will be updated once dashboard is published.*
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/tylor.justice.page/viz/CustomerSegmentationDashboard_17524707561140/Dashboard1#1)  
+
 
 ## Skills Demonstrated
 
