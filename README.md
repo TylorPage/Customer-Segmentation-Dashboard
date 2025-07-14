@@ -43,6 +43,7 @@ I cleaned the original dataset using Google Sheets with the following steps:
 - Wine and meat purchases are the strongest indicators of overall spending
 - Married customers tend to have more stable spending patterns than single or divorced individuals
 - Customers over 50 showed higher loyalty and average purchase value than younger groups
+- Birth year 1970 highest purchase rate of meat and wine
 
 ## Dashboard Preview
 
