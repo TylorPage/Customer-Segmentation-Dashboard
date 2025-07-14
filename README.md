@@ -29,7 +29,7 @@ This project explores customer demographic and behavioral data to identify patte
 - Tableau Public (Data visualization and dashboard)
 - Google Sheets (Initial data review and cleaning)
 - GitHub (Project documentation and portfolio publishing)
-- 
+
 ## Data Cleaning Process
 
 I cleaned the original dataset using Google Sheets with the following steps:
