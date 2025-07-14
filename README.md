@@ -36,7 +36,7 @@ I cleaned the original dataset using Google Sheets with the following steps:
 
 - Removed rows with missing `Income` values
 - Standardized column names for clarity (e.g., `MntWines` → `Wines_Purchased`)
-- 
+
 ## Key Insights
 
 - Customers with high income and low recency are typically the most active buyers
